@@ -113,3 +113,7 @@
       * `<mainClass>` OR `exec.mainClass`
         * := optional parameter OR parameter detail /
           * main class to execute
+
+## Notes
+* `mvn help:describe -Dplugin=org.codehaus.mojo:exec-maven-plugin:3.3.0 -Ddetail`
+  * check the plugin's goals
